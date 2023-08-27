@@ -52,3 +52,6 @@ The PO files in this project are imported from there.
 
 ## License
 - Code: GPLv2
+
+## Credits
+- DBUS calls are based on outdated fork by [Rafael Monico](https://github.com/rmonico/sticky/)
